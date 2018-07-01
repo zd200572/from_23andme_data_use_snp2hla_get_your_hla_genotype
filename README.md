@@ -6,4 +6,5 @@ vcf2ped
 ped等2bed等
 SNP2HLA得到结果
 
-如果你感兴趣，可以把数据发邮件到zhaojiadong#zd200572.com，#换@，我可以帮你得到hla分型数据，准确率总的在60%以上，仅供娱乐。我不会存储利用任何数据，得到结果后立即删除。
+如果你感兴趣却不能自己运行获得结果，可以把数据发邮件到zhaojiadong#zd200572.com，#换@，我可以在业余时间帮你得到hla分型数据，准确率总的在60%以上，仅供娱乐。我不会存储利用任何数据，得到结果后立即删除。
+If you interested in this and can not do it by your self, you can sent your 23andme or other snp data to me ,zhaojiadong#zd200572.com ,@ replace #, I can help you get your own hla genotype, the correct portion is above 60%, just for fun. I will not save or use your data at any level, your data will deleted once the result sent to you.
