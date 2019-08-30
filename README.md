@@ -1,6 +1,6 @@
 Updated 2019.8.30
 
-Yet another HLA genotyper using hibag https://shiny.zd200572.com/HLA-HIBAG/,  code modified from https://github.com/nicokist/23andmeHLA, compared to the latter， my can predict the full result and Probability. The Correct rate is still low for some genotypes. Welcome  using!
+Yet another HLA genotyper using hibag https://shiny.zd200572.com/HLA-HIBAG/,  code modified from https://github.com/nicokist/23andmeHLA, compared to the latter， my can predict the full result and Probability. The Correct rate is still low for some genotypes. It's a R Shiny app, deployed in Tencent cloud. Welcome  using!
 
 ![](https://github.com/zd200572/from_23andme_data_use_snp2hla_get_your_hla_genotype/blob/master/hla-hibag.jpg)
 Updated 2018.8.20
